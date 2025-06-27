@@ -1,4 +1,4 @@
-Data-Analytics-Project-Pipeline
+## Data-Analytics-Project-Pipeline
 
 Objective:
 This project demonstrates an end-to-end data workflow for analyzing retail sales data. It covers reading raw data, cleaning and transforming it using Python, storing it in a MySQL database, and visualizing insights through Power BI.
