@@ -1,7 +1,9 @@
-## Data-Analytics-Project-Pipeline
+## Sales Analysis Data Pipeline
 
 Objective:
 This project demonstrates an end-to-end data workflow for analyzing retail sales data. It covers reading raw data, cleaning and transforming it using Python, storing it in a MySQL database, and visualizing insights through Power BI.
+
+⚙️ Tech Stack: Python, MySQL, PowerBI
 
 ✅ Dataset Overview
 Fields:
@@ -17,6 +19,7 @@ Discount, Sales, Profit
 Volume: ~8,037 rows
 
 📌 Workflow
+
 1️⃣ Data Reading & Exploration
 Loaded data using Pandas (read_csv).
 
@@ -42,7 +45,7 @@ Verified uniqueness of order_id as needed.
 
 Saved the final cleaned DataFrame.
 
-4️⃣ Data Storage
+4️⃣ Data Modelling
 Used SQLAlchemy and PyMySQL to export the clean DataFrame to a MySQL database table (cleaned_orders).
 
 Defined a clear schema with correct column types for reporting.
