@@ -16,7 +16,7 @@ Segment, Ship Mode, Category, Sub-Category
 
 Discount, Sales, Profit
 
-Volume: ~8,037 rows
+Sample size: ~8,037 rows
 
 📌 Workflow
 
