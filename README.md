@@ -2,8 +2,6 @@
 
 Welcome to my comprehensive Data Analytics Portfolio — a curated collection of end-to-end projects showcasing my skills in data wrangling, analysis, visualization, and storytelling across diverse business domains.  Inside this repository, you’ll find:  Well-documented projects demonstrating data analytical skills. 
 
-🎯 **From Aerospace to Analytics — Built to Decode Impact**
-
 Welcome to my portfolio — a curated collection of end-to-end data analytics projects, business dashboards, and practical problem-solving across domains. With 3+ years of experience spanning **data operations, analytics modeling**, and **visual storytelling**, I combine technical skills with business understanding to drive actionable insights.
 
 ---
