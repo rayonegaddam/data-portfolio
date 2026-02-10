@@ -1,8 +1,6 @@
 # 👋 Rayone Gaddam | Data Analyst Portfolio
 
-Welcome to my comprehensive Data Analytics Portfolio — a curated collection of end-to-end projects showcasing my skills in data wrangling, analysis, visualization, and storytelling across diverse business domains.  Inside this repository, you’ll find:  Well-documented projects demonstrating data analytical skills. 
-
-Welcome to my portfolio — a curated collection of end-to-end data analytics projects, business dashboards, and practical problem-solving across domains. With 3+ years of experience spanning **data operations, analytics modeling**, and **visual storytelling**, I combine technical skills with business understanding to drive actionable insights.
+Welcome to my comprehensive Data Analytics Portfolio — a curated collection of end-to-end projects showcasing my skills in data wrangling, analysis, visualization, and storytelling across diverse business domains.  Inside this repository, you’ll find:  Well-documented projects demonstrating data analytical skills.With 3+ years of experience spanning **data operations, analytics modeling**, and **visual storytelling**, I combine technical skills with business understanding to drive actionable insights.
 
 ---
 
@@ -15,25 +13,21 @@ A complete retail pipeline built with:
 - 📈 Power BI dashboards for performance metrics
 
 ### 📱 User Engagement Analytics (Web & App)
-- Data from Google Analytics
-- Cohort analysis, retention metrics, and actionable visualizations
-- Tools: GA4, GTM, Google Sheets, Google web extensions
+- Collected website and app data in adherence to GDPR laws and user privacy
+- Performed Cohort analysis, user engagement and traffic acquisition analysis
+- Provided effective visualizations for business owners/stakeholders
+- Tools: Python, GA4, Power BI
 
 
 ## 🧰 Tools & Tech Stack
 
-- **Languages**: Java script
-- **BI Tools**: Google Analytics 4, Google Ads
-- **Databases**: Google Anlaytics
+- **Languages**: Python, JavaScript
+- **BI Tools**: PowerBI, Tableau, Google Analytics 4
+- **Databases**: MySQL, PostGres
 
----
 
 ## 📄 Contact
 
 - 📧 rayonegaddam24@gmail.com
 - 📍 Based in India | Open to remote & hybrid roles
-
----
-
-> “Every dataset tells a story — I turn them into decisions.”  
 
