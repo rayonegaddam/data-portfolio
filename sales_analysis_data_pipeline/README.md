@@ -54,3 +54,6 @@ Defined a clear schema with correct column types for reporting.
 Connected Power BI Desktop to the MySQL database.
 
 Built interactive dashboards
+
+<img width="1100" height="700" alt="image" src="https://github.com/user-attachments/assets/3c151636-38c1-422c-88f7-01e1fd342a7b" />
+
